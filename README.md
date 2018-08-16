@@ -1,2 +1,2 @@
 # ForeshadowAaaS
-test
+go to [ForeshadowAttack.com](ForeshadowAttack.com)
